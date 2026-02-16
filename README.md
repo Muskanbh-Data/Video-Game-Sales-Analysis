@@ -1,13 +1,13 @@
 #  Video Game Sales Analysis
 
-##  Project Overview
+## Project Overview
 This is an end-to-end Data Analytics project focused on analyzing global video game sales trends using Python, SQL, and Power BI.
 
 The goal of this project was to clean, analyze, and visualize historical video game sales data to uncover business insights related to genres, platforms, publishers, and regional performance.
 
 ---
 
-##  Tools & Technologies Used
+## Tools & Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
 - SQL (MySQL)
 - Power BI
@@ -17,7 +17,7 @@ The goal of this project was to clean, analyze, and visualize historical video g
 
 ##  Project Workflow
 
-###  Data Cleaning & EDA (Python)
+### Data Cleaning & EDA (Python)
 - Handled missing values
 - Removed duplicates
 - Standardized column formats
@@ -25,7 +25,7 @@ The goal of this project was to clean, analyze, and visualize historical video g
 
 ---
 
-###  Business Analysis (SQL)
+### Business Analysis (SQL)
 Solved real-world business questions like:
 - Top selling platforms
 - Most profitable game genres
@@ -34,7 +34,7 @@ Solved real-world business questions like:
 
 ---
 
-###  Interactive Dashboard (Power BI)
+### Interactive Dashboard (Power BI)
 Built a professional dashboard to visualize:
 - Global sales trends over time
 - Top genres and platforms
@@ -58,7 +58,7 @@ Built a professional dashboard to visualize:
 
 ---
 
-##  Repository Contents
+## Repository Contents
 - Data Cleaning Notebook
 - SQL Queries File
 - Power BI Dashboard Screenshot
@@ -75,6 +75,6 @@ Built a professional dashboard to visualize:
 
 ---
 
-## 👩‍💻 Author
+## Author
 Muskan Bhardwaj  
 Aspiring Data Analyst
