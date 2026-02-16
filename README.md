@@ -52,7 +52,9 @@ Built a professional dashboard to visualize:
 ---
 
 ## Dashboard Preview
-(See Dashboard_Preview.png in repository)
+
+![Dashboard Preview](Dashboard_Preview.png)
+
 
 ---
 
